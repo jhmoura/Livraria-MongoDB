@@ -1,0 +1,5 @@
+CLOUDINARY_NAME=
+CLOUDINARY_API_KEY=
+CLOUDINARY_API_SECRET=
+
+MONGO_URI_CONNECTION=mongodb+srv://jmoura:<password>@gama41.zhcblus.mongodb.net/?retryWrites=true&w=majority
